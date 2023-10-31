@@ -1,5 +1,5 @@
-[[song]]
+[[songs]]
 id = 3
 artist = "Ooes"
 name = "Ночь (припев)"
-pic = "ooes__night"
+pic_path = "ooes__night.png"
