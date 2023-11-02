@@ -4,4 +4,5 @@ artist = "Ooes"
 name = "Ночь (припев)"
 pic_path = "ooes__night.png"
 preview_tabs_path = "ooes__night.png"
+demo_sound_path = "ooes__night.flac"
 price = 99
