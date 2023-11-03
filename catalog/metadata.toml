@@ -1,4 +1,15 @@
 [[songs]]
+id = 1
+artist = "Lil Peep"
+name = "Star Shopping (theme)"
+song_cover_path = "lil_peep__star_shopping.jpg"
+preview_tabs_path = "lil_peep__star_shopping.png"
+demo_sound_path = "lil_peep__star_shopping.wav"
+demo_sound_duration = 46
+buy_in_usd_link = "https://boosty.to/deknowny/posts/20cec2a7-f40f-465d-a0c3-a73c07c737be"
+price = 99
+
+[[songs]]
 id = 2
 artist = "Pyrokinesis"
 name = "Море волнуется два (припев)"
@@ -8,7 +19,6 @@ demo_sound_path = "pyrokinesis__seegrowthtwo.wav"
 demo_sound_duration = 38
 buy_in_usd_link = "https://boosty.to/deknowny/posts/d5e09178-8480-4202-85b8-a53024e8469c"
 price = 99
-
 
 
 [[songs]]
