@@ -1,4 +1,17 @@
 [[songs]]
+id = 2
+artist = "Pyrokinesis"
+name = "Море волнуется два (припев)"
+song_cover_path = "pyrokinesis__seegrowthtwo.jpg"
+preview_tabs_path = "pyrokinesis__seegrowthtwo.jpg"
+demo_sound_path = "pyrokinesis__seegrowthtwo.wav"
+demo_sound_duration = 38
+buy_in_usd_link = "https://boosty.to/deknowny/posts/d5e09178-8480-4202-85b8-a53024e8469c"
+price = 99
+
+
+
+[[songs]]
 id = 3
 artist = "Ooes"
 name = "Ночь (припев)"
